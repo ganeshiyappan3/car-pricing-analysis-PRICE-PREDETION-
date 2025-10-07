@@ -1,0 +1,38 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files (optional: keep if dataset is small & public)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.pkl
+*.sav
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Model files (optional)
+*.h5
+*.joblib
+*.pkl
+
+# VSCode or IDE configs
+.vscode/
+.idea/
